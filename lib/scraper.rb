@@ -43,4 +43,3 @@ class Scraper
     social_sites
   end
 end
-binding.pry
